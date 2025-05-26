@@ -34,8 +34,11 @@ C:\Users\dedim\source\repos\Atv.-04\Atv.-04\bin\Debug\System.Numerics.Vectors.xm
 C:\Users\dedim\source\repos\Atv.-04\Atv.-04\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\dedim\source\repos\Atv.-04\Atv.-04\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\dedim\source\repos\Atv.-04\Atv.-04\obj\Debug\Atv.-04.csproj.AssemblyReference.cache
+C:\Users\dedim\source\repos\Atv.-04\Atv.-04\obj\Debug\Atv._04.CadastroForm.resources
+C:\Users\dedim\source\repos\Atv.-04\Atv.-04\obj\Debug\Atv._04.ConsultaForm.resources
 C:\Users\dedim\source\repos\Atv.-04\Atv.-04\obj\Debug\Atv._04.MainForm.resources
 C:\Users\dedim\source\repos\Atv.-04\Atv.-04\obj\Debug\Atv._04.Properties.Resources.resources
+C:\Users\dedim\source\repos\Atv.-04\Atv.-04\obj\Debug\Atv._04.SobreForm.resources
 C:\Users\dedim\source\repos\Atv.-04\Atv.-04\obj\Debug\Atv.-04.csproj.GenerateResource.cache
 C:\Users\dedim\source\repos\Atv.-04\Atv.-04\obj\Debug\Atv.-04.csproj.CoreCompileInputs.cache
 C:\Users\dedim\source\repos\Atv.-04\Atv.-04\obj\Debug\Atv.-04.csproj.Up2Date
